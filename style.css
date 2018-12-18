@@ -1,0 +1,44 @@
+body {
+    font-family: Tahoma, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    margin: 10px 0;
+    color: #071C50;
+    line-height: 1.1;
+    letter-spacing: -.5px;
+    color: #001048;
+}
+
+
+p {
+    font-size: 9px;
+    line-height: 1.4em;
+    color: #b0b0b0;
+    padding-right: 30px;
+    margin-bottom: 21px;
+}
+
+a {
+    border: 0 none;
+    font-size: 10px;
+    padding: 8px 22px;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #16f0df;
+    margin-top: 8px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+main {
+    display: block; /* for IE */
+    box-sizing: border-box;
+    width: 710px;
+    height: 380px;
+    padding: 100px 450px 30px 30px;
+    background: url(main-bg.png) top right no-repeat;
+    box-shadow: 0px 15px 20px #bdbdbd;
+}
